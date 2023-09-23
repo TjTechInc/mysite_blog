@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\tjtec\anaconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="a6402ff5-7a6c-4e7c-a9a9-ffb908a8c80a" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (DJANGO)" project-jdk-type="Python SDK" />
 </project>
